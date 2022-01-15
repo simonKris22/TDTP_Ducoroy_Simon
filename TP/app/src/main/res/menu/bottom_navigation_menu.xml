@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/pop"
+        android:enabled="true"
+        android:title="p"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/rec"
+        android:enabled="true"
+        android:title="recent"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/rech"
+        android:enabled="true"
+        android:title="reherche"
+        app:showAsAction="ifRoom" />
+
+
+</menu>
